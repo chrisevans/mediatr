@@ -1,0 +1,9 @@
+{
+    "name": "mediatr"
+  , "description": "JavaScript Mediator Pattern"
+  , "version": "1.0.0"
+  , "author": "Chris Evans <cmevans2@gmail.com> (http://twitter.com/_chrisevans)"
+  , "keywords": ["ender", "decoupled", "app-core", "controller", "base"]
+  , "main": "./mediatr.js"
+  , "ender": "./ender.js"
+}
